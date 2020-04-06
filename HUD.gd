@@ -27,8 +27,8 @@ func _on_StartButton_pressed():
 
 func show_game_over():
 	show_message("Game Over")
-	yield($MessageLabel, "timeout")
-	$StarButton.show()
+	yield($MessageTimer, "timeout")
+	$StartButton.show()
 	$MessageLabel.text = "Coin Dash!"
 	$MessageLabel.show()
 

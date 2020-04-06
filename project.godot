@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="Coin Dash"
 run/main_scene="res://Main.tscn"
-config/icon="res://icon.png"
+config/icon="res://assets/coin/coin-frame-1.png"
 
 [display]
 
