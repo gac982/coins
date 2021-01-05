@@ -10,4 +10,6 @@ Game made with Godot Engine where you are a fox catching coins before time runs 
 
 ---
 
+# [DEMO ONLY FOR FIREFOX](https://gac982.github.io/coins/ "demo")
+
 
